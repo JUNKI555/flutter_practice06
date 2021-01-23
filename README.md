@@ -1,4 +1,4 @@
-## Flutter Practice 05
+## Flutter Practice 06
 - Footer Practice
 - `provider` ＋ `ChangeNotifier`
 
